@@ -16,7 +16,7 @@ public class Files {
 		person1.setAge(38);
 		
 		Person person2 = new Person();
-		person2.setName("Amanda Gonçalves");
+		person2.setName("Amanda Goncalves");
 		person2.setEmail("amaga.jerico@hotmail.com");
 		person2.setAge(34);
 		
