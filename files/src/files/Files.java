@@ -33,7 +33,7 @@ public class Files {
 		
 		
 		// Creating an instance of File and passing pathname parameter
-		File file = new File("C:\\Users\\wylta\\git\\repository2\\files\\src\\files\\file.txt");
+		File file = new File("C:\\Users\\wylta\\git\\repository2\\files\\src\\files\\file.csv");
 		
 		//if the file doesn't exists, create a new file
 		if(!file.exists()) {

@@ -14,7 +14,7 @@ public class ReadFile {
 		List<Person> persons = new ArrayList<Person>();
 
 		FileInputStream dataInput = new FileInputStream(
-				"C:\\Users\\wylta\\git\\repository2\\files\\src\\files\\file.txt");
+				"C:\\Users\\wylta\\git\\repository2\\files\\src\\files\\file.csv");
 		
 		Scanner row = new Scanner(dataInput, "UTF-8");
 		
